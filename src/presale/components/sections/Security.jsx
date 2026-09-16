@@ -90,7 +90,7 @@ function Security() {
               className="text-4xl font-black tracking-[-0.045em] text-white sm:text-5xl md:text-6xl lg:text-7xl"
             >
               Security
-              <span className="text-slate-500"> First.</span>
+              <span className="text-[#D4AF37]"> First.</span>
             </motion.h2>
 
             <motion.p
